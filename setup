@@ -4,6 +4,5 @@
 # * Run Test Suit to validate
 #
 # After this is run, bin/parking_lot
-# should Just Work.
-javac App.java
-chmod +x App.class
+# should 
+A
