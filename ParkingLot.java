@@ -1,5 +1,8 @@
 public class ParkingLot {
   public static void main(String[] args) {
-    System.out.println("ParkingLot System In Petaling Jaya");
+    printMethodParkingLot();
+  }
+  public static void printMethodParkingLot() {
+	 System.out.println("ParkingLot System In Petaling Jaya");
   }
 }
