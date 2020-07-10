@@ -1,4 +1,4 @@
-public class ParkingLot {
+public class ParkingLot2 {
   public static void main(String[] args) {
     printMethodParkingLot();
   }
