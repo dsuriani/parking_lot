@@ -3,6 +3,6 @@ public class ParkingLot {
     printMethodParkingLot();
   }
   public static void printMethodParkingLot() {
-	 System.out.println("ParkingLot System In Petaling Jaya114");
+	 System.out.println("ParkingLot System In Petaling Jaya1141");
   }
 }
